@@ -1,0 +1,30 @@
+{
+  "name": "cronapp-common-js",
+  "authors": [
+    "Adir Lima <adir.santos@techne.com.br>"
+  ],
+  "description": "Cronapp Commons Functions",
+  "main": "dist/parser.js",
+  "keywords": [
+    "dom",
+    "xml",
+    "json"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.cronapp.io/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "b651a58150",
+  "_resolution": {
+    "type": "commit",
+    "commit": "b651a581505c281254a42ec11d270f17fb6b2d61"
+  },
+  "_source": "https://github.com/CronApp/cronapp-common-js.git",
+  "_target": "b651a581505c281254a42ec11d270f17fb6b2d61",
+  "_originalSource": "cronapp-common-js"
+}
